@@ -1,6 +1,6 @@
 # Tavleen.me
 
-## Looking for a Junior Data Science or Machine Learning Engineer role in Vancouver
+## Looking for a Junior Data Science or Machine Learning Engineer role.
 
 ```python
 # importing data science libraries
